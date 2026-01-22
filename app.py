@@ -163,7 +163,7 @@ st.image("assets/21_permitase_florescer.png", use_container_width=True)
  # ============================================================
  # 💚 SAÚDE & FERRAMENTAS  (AQUI VAI O SEU CÓDIGO ATUAL INTEIRO)
  # ============================================================
- def render_ferramentas():
+ 
  
      # ===================== VÍDEO MOTIVACIONAL =====================
      st.title("📘 Eu Já Existia Antes de Você")
