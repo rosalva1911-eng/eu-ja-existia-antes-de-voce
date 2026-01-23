@@ -122,4 +122,4 @@ st.markdown(
     "Agora, a palavra é sua.\n\n"
     "Escreva sem pressa, sem censura e com verdade."
 )
-st.image("13_carta_futuro.png.jpg", use_container_width=True)
+
