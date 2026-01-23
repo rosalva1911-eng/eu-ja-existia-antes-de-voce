@@ -27,6 +27,7 @@ st.markdown(
 )
 
 st.image("02_lei_atracao_espelho.png.jpg", use_container_width=True) 
+
 # ------------------------------
 # CAPÍTULO 2 — QUANDO VOCÊ SE ABANDONA
 # ------------------------------
@@ -47,6 +48,7 @@ st.image("04_onde_se_perdeu.png.jpg", use_container_width=True)
 st.markdown(
     "Sentir não é falha. Amar não é erro.\n\n"
     "O que machuca é permanecer onde não há reciprocidade."
+   
 # ------------------------------
 # CAPÍTULO 3 — A ENERGIA NÃO MENTE
 # ------------------------------
