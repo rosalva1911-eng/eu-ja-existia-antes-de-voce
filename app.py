@@ -47,5 +47,13 @@ st.image("04_onde_se_perdeu.png.jpg", use_container_width=True)
 st.markdown(
     "Sentir não é falha. Amar não é erro.\n\n"
     "O que machuca é permanecer onde não há reciprocidade."
+# ------------------------------
+# CAPÍTULO 3 — A ENERGIA NÃO MENTE
+# ------------------------------
+st.markdown("---")
+st.subheader("Capítulo 3 — A energia não mente")
+st.markdown(
+    "A energia não responde ao que você deseja.\n\n"
+    "Ela responde ao que você sustenta emocionalmente."
 )
-st.image("05_voce_nao_falhou.png.jpg", use_container_width=True)
+st.image("06_lei_atracao_reflexiva.png.jpg", use_container_width=True)
